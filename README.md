@@ -1,2 +1,2 @@
 # NWL 3 front-end
-![](images/amostra.png)
+![](src/images/amostra_.png)
