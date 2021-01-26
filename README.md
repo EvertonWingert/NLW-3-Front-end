@@ -13,6 +13,9 @@
    <li>
     <p>React Js</p>
   </li>
+   <li>
+    <p>Typescript</p>
+  </li>
 </ul>
 <p><a href="https://evertonwingert.github.io/passwordGenerator-JavaScript" target="_blank">Online demo</a></p>
 
