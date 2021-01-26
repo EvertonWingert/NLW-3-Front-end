@@ -17,7 +17,7 @@
     <p>Typescript</p>
   </li>
 </ul>
-<p><a href="https://evertonwingert.github.io/passwordGenerator-JavaScript" target="_blank">Online demo</a></p>
+<p><a href="https://evertonwingert.github.io/NLW-3-Front-end/" target="_blank">Online demo</a></p>
 
 ![](src/images/amostra_.png)
 ![](src/images/amostra2.png)
